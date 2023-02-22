@@ -1,7 +1,7 @@
 // in ES6 class is known as syntactic sugar
 class Instructor {
   name;
-  designation = "we course instructor";
+  designation = "web course instructor";
   team = "web team";
   location;
   //   constructor is used to take values of name and location
